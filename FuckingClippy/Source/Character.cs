@@ -76,6 +76,9 @@ namespace FuckingClippy
         {
             DialogSystem.Say(text);
         }
+        public static void who are you(string text)
+        {
+            DialogSystem.Say("I am clippy. I like to annoy you.")
 
         public static void SayRandom()
         {
